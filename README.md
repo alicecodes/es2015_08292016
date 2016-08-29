@@ -27,6 +27,7 @@ Breaks:
 - Iterators
 - Generators
 - Spread and Rest Operators
+- Promises
 - Maps and Sets
 
 ## Links
@@ -35,6 +36,7 @@ Breaks:
 
 - [Eric's Blog](http://t4d.io/)
 - [WintellectNOW](https://www.wintellectnow.com/Home/Instructor?instructorId=EricGreene) - Special Offer Code: GREENE-2016
+- [Microsoft Virtual Academy](https://mva.microsoft.com/search/SearchResults.aspx#!q=Eric%20Greene&lang=1033)
 - [React Blog Posts](https://github.com/training4developers/react-flux-blog)
 - [TopTal Angular Directive](https://www.toptal.com/angular-js/angular-js-demystifying-directives)
 - [React SitePoint](http://www.sitepoint.com/author/ericgreene/)
@@ -52,7 +54,7 @@ This is a starter project for learning ES2015.
 
 Step 1. Download Install Node.js version 6 or higher. Version 6 or higher MUST be installed. If you have an older Node.js version that you need to keep, then use something like [NVM](https://www.npmjs.com/package/nvm) to manage multiple Node.js installations. To install Node.js click [here](https://nodejs.org).
 
-Step 2. Download this repository from [here](https://github.com/training4developers/es2015_08152016/archive/master.zip). Extract the zip file to a working folder on your system.
+Step 2. Download this repository from [here](https://github.com/training4developers/es2015_08292016/archive/master.zip). Extract the zip file to a working folder on your system.
 
 Step 3. Open a new terminal window, change to the folder where you extracted the zip file. You should see a **package.json** file in the folder.
 

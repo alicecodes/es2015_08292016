@@ -1,5 +1,5 @@
 {
-  "name": "es2015_08152016",
+  "name": "es2015_08292016",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/training4developers/es2015_08152016/issues"
   },
