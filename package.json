@@ -1,0 +1,27 @@
+{
+  "name": "es2015_08152016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel src -d dist",
+    "babel:w": "babel src -d dist -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/training4developers/es2015_08152016.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/training4developers/es2015_08152016/issues"
+  },
+  "homepage": "https://github.com/training4developers/es2015_08152016#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-eslint": "^6.1.2",
+    "babel-preset-es2015": "^6.13.2",
+    "eslint": "^3.3.0"
+  }
+}
