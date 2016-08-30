@@ -1,3 +1,12 @@
-import { greeting } from './hello-world';
+import { doIt as friarTuck, doIt3 } from './hello-world';
+import HelloWorld from './hello-world';
 
-console.log(greeting());
+//import React from 'react';
+import { Component } from 'react';
+
+Component
+
+friarTuck();
+doIt3();
+
+console.log(HelloWorld.bluesJeanIsBadNameForAConferenceSystem);
